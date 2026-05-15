@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "chatRater"]
+	path = chatRater
+	url = https://github.com/shiyangzheng/chatrater
 [submodule "llmcoder"]
 	path = llmcoder
 	url = https://github.com/shiyangzheng/llmcoder
